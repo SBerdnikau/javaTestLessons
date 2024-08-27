@@ -1,3 +1,4 @@
 rootProject.name = 'javaTestLessons'
 include 'lesson1'
+include 'lesson2'
 
